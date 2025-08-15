@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: الابتكار المستقبلي هو المكان المناسب ليك راحتاً واستفادة
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
