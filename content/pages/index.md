@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: '/images/ChatGPT Image Jul 28, 2025, 09_23_13 AM.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
